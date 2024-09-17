@@ -1,7 +1,6 @@
 public class H2 {
     public static void main(String[] args) {
 
-
         //menggunakan for
         System.out.println("Menggunakan for");
         for (int i = 1; i <= 20; i++) {
