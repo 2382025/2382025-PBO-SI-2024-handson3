@@ -29,6 +29,5 @@ public class H1 {
             System.out.printf(buah[i]);
             i++;
         }while(i < buah.length);
-
     }
 }
